@@ -1,0 +1,2 @@
+D:/goutil/goutil/log/logTest.go:28: 找到一个低级bug,低级别的日志报告，执行debug记录后继续执行
+D:/goutil/goutil/log/logTest.go:29: 发现一个严重bug，日志已记录，程序在此终止
